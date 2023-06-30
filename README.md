@@ -51,5 +51,3 @@ The text-to-speech functionality is provided by Eleven Labs. The quality of the 
 .
 
 ---
-
-Please replace `script_name.py` with the actual name of your Python script. Also, you might want to add more sections to the README, such as "Contributing", "Support", "Roadmap", etc., depending on the needs of your project.
