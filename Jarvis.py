@@ -5,8 +5,8 @@ import pyttsx3
 from elevenlabs import generate, play, set_api_key
 
 # Constants
-OPENAI_API_KEY = "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"
-ELEVEN_LABS_API_KEY = "0da9060c2992c7205eaf044dc3a1e3a0"
+OPENAI_API_KEY = ""
+ELEVEN_LABS_API_KEY = ""
 VOICE_NAME = "Josh"
 MODEL_NAME = "eleven_monolingual_v1"
 ACTIVATION_KEYWORD = "computer"
