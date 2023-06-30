@@ -48,7 +48,7 @@ The text-to-speech functionality is provided by Eleven Labs. The quality of the 
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+.
 
 ---
 
